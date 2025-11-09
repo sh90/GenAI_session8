@@ -1,0 +1,13 @@
+[project]
+name = "genaimodelue-session8"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0.12",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.0.2",
+    "langgraph>=1.0.2",
+    "langgraph-checkpoint-sqlite>=3.0.0",
+]
